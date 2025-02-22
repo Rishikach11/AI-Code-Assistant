@@ -11,7 +11,7 @@ async function processCode(action) {
 
     outputDiv.innerHTML = "<p style='color:yellow;'>Processing...</p>";
 
-    const apiKey = "AIzaSyDXzvf0Eixox10RsjAJs_UXpKLXNvCsAG8"; // Replace with your Gemini API key
+    const apiKey = "AIzaSyDXzvf0Eixox10RsjAJs_UXpKLXNvCsAG8"; 
     const genAI = new GoogleGenerativeAI(apiKey);
     const model = genAI.getGenerativeModel({ model: "gemini-2.0-pro-exp-02-05" });
     const generationConfig = {
