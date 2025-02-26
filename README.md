@@ -43,11 +43,6 @@ Click one of the *buttons*:
 
 ---
 
-## 🎨 UI Preview
-
-![AI Code Assistant Screenshot](image.png)
-
----
 
 ## 🚀 Why Use AI Code Assistant?
 
@@ -65,10 +60,5 @@ By using this tool, you agree to these terms.
 
 ---
 
-## 📄 License
-
-This project is *open-source* under the *MIT License*. Feel free to use and improve it!
-
----
 
 ### *Enjoy Coding with AI! 🚀*
