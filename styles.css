@@ -97,3 +97,11 @@ button:active {
     text-align: center;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
 }
+
+#disclaimer p {
+    margin: 0; /* Remove default margin from the paragraph for better control */
+}
+
+#disclaimer strong {
+    color: #f1c40f; /* Ensure the "Disclaimer" label matches the text color */
+}
